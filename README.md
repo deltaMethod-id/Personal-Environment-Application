@@ -3,7 +3,7 @@
 > A secure and private digital workspace for storing your most sensitive information.
 
 ![Version](https://img.shields.io/badge/version-v1.2-blue)
-![Platform](https://img.shields.io/badge/platform-Web-blue)
+![Platform](https://img.shields.io/badge/platform-Android-green)
 ![Status](https://img.shields.io/badge/status-Stable-success)
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
 
